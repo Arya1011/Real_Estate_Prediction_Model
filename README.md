@@ -8,3 +8,5 @@
 * Uses HTML and CSS templates for the front end of the application 
 
 ```python server.py``` from the ```server``` directory from the server directory to start the flask server on your localhost
+
+Note : This is a static model and uses a particular dataset for making predictions. It does not take into consideration any volatilities or changes in the price of the properties or external non measurable factors.
