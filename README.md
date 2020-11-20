@@ -6,3 +6,5 @@
 
 ### Front End
 * Uses HTML and CSS templates for the front end of the application 
+
+```python server.py``` from the server directory from the server directory to start the flask server on your localhost
